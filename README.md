@@ -23,8 +23,7 @@ A computer vision project that detects human **emotions** and **hand gestures** 
 - **Python**
 - **OpenCV**
 - **MediaPipe** (for face & hand tracking)
-- **TensorFlow / Keras** *(if you used any ML model)*
-- NumPy, Matplotlib *(if used)*
+- NumPy, Matplotlib 
 
 ### 🔧 Installing Dependencies Manually
 pip install opencv-python mediapipe numpy
